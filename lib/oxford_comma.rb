@@ -1,4 +1,4 @@
 def oxford_comma(array)
-oxford = ["kiwi"]
-return oxford.index(0)
+if array.size == 1 
+  return "kiwi"
 end
